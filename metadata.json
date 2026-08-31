@@ -1,0 +1,7 @@
+{
+  "name": "Resonance",
+  "description": "Hi-Res FLAC and WAV lossless music player with dynamic album theming, synced lyrics, offline library manager, custom playlists, and cross-platform synchronization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
